@@ -37,7 +37,8 @@ Chang is a passionate coder with experience in JavaScript, Python, and Ruby. Bef
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/changliCoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://changlicoding.github.io/portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chang-li-16abb5231/)
 ### Badges
 
 <b>My GitHub Stats</b>
