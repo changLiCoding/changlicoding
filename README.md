@@ -195,8 +195,13 @@ I am is a passionate coder with experience in JavaScript, Python, and Ruby. Befo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/changliCoding/TurboEclothing" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=TurboEclothing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/changliCoding/InterviewScheduler" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=InterviewScheduler&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/changliCoding/TurboEclothing" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=TurboEclothing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/changliCoding/game_list_client" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=Game_List_Client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/changliCoding/QuizApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=QuizApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/changliCoding/natours" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/changliCoding/ccc_music_emporium" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=CCC_Music_Emporium&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/changliCoding/natours" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=changliCoding&repo=natours&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
