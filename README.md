@@ -178,18 +178,6 @@ I am is a passionate coder with experience in JavaScript, Python, and Ruby. Befo
 
 <br>
 
-
-
-
-
-
-
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-
-</p>
-
 ### Socials
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://changlicoding.github.io/portfolio/)
@@ -197,6 +185,11 @@ I am is a passionate coder with experience in JavaScript, Python, and Ruby. Befo
 ### Badges
 
 <b>My GitHub Stats</b>
+
+
+<a href="http://www.github.com/changliCoding"><img src="https://github-readme-stats.vercel.app/api?username=changliCoding&show_icons=true&hide=stars,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tienviet10's GitHub stats" /></a>
+
+<a href="http://www.github.com/changliCoding"><img src="https://github-readme-streak-stats.herokuapp.com/?user=changliCoding&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/changliCoding"><img src="https://github-readme-stats.vercel.app/api?username=changliCoding&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="changliCoding's GitHub stats" /></a>
 
