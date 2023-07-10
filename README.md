@@ -108,6 +108,10 @@ I am is a passionate coder with experience in JavaScript, Python, and Ruby. Befo
       <br /><strong>Ruby on Rails</strong>
     </td>
     <td align="center" height="108" width="108">
+      <a href="https://www.java.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+      <br /><strong>Java</strong>
+    </td> 
+    <td align="center" height="108" width="108">
       <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
       <br /><strong>GraphQL</strong>
     </td>
