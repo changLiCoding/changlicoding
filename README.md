@@ -10,7 +10,7 @@ I am is a passionate coder with experience in JavaScript, Python, and Ruby. Befo
 * 🧠  I'm learning GraphQL, Apollo, Java, Spring Boot
 * 🥔  My portfolio at [Chang](https://changlicoding.github.io/portfolio/)
 * 🐋  Current project I am working on: [GameListApp](https://gamelistapp.netlify.app/home)
-* 🎮  I love playing video game. Now playing Diablo 4 having a Necromancer level 78
+* 🎮  I love playing video game. Now playing Necromancer in Diablo 4 and also Dave the Diver.
 
 <br>
 
