@@ -7,7 +7,7 @@ Web Developer and Designer
 I am is a passionate coder with experience in JavaScript, Java, Python, and Ruby. Before coding, I spent 8 years as a computer mechanic, honing my troubleshooting skills, and communicating with people. My unique perspective on technology allows me to create efficient and scalable solutions. When I'm not coding, I enjoy cooking, video games and work-life balance. I'm always looking to learn, grow, and improve.
 
 * 🌍  I'm based in Saskatoon, CA (for now)
-* 🧠  I'm learning GraphQL, Apollo, Java, Spring Boot
+* 🧠  I'm learning NextJS
 * 🥔  My portfolio at [Chang](https://changlicoding.github.io/portfolio/)
 * 🐋  Current project I am working on: [GameListApp](https://gamelistapp.netlify.app/home)
 * 🎮  I love playing video game. Now playing Necromancer in Diablo 4 and also Dave the Diver.
